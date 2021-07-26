@@ -1,0 +1,35 @@
+The Battle of the Neighborhoods: Starting a Coffee Shop Business
+The Coursera Applied Data Science Capstone Project.
+
+Author: Than Htike
+Project Summary
+Goal:
+
+To figure out the best locations for opening up a new coffee shop in Toronto City.
+Target Audience:
+
+Entrepeneurs, Business Owners, Stakeholders, Data Scientists
+
+1. Web Scraping: Toronto Postal Codes
+We will start the project by scraping the following Wikipedia page. https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+Objective:
+
+Obtain the data inside the html page containing a list of Toronto postal codes in the form of table and transform the data into a pandas dataframe!
+
+2. Coordinate Retrieval: Toronto Postal Codes
+Objective:
+
+Now, we will get the latitude and the longitude coordinates of each neighborhood in order to utilize the Foursquare location data later in the separate main project notebook.
+
+3. Segment & Cluster Toronto Neighborhoods
+Objective:
+
+We will explore, segment, and group neighborhoods into clusters to find similar neighborhoods in Toronto City. As far as this project is concerned, we will use the Foursquare location dataset and use Foursquare API to access it.
+
+4. The Main Project Notebook
+Objective:
+
+Compile everything to acomplish the project's goal.
+
+Thank you,
